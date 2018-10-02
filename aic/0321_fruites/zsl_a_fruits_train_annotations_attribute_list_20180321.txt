@@ -1,0 +1,58 @@
+Attr_F_001, outside color: is black, 外表颜色: 是黑色的
+Attr_F_002, outside color: is white, 外表颜色: 是白色的
+Attr_F_003, outside color: is blue, 外表颜色: 是蓝色的
+Attr_F_004, outside color: is cyan, 外表颜色: 是青色的
+Attr_F_005, outside color: is brown, 外表颜色: 是棕色的
+Attr_F_006, outside color: is gray, 外表颜色: 是灰色的
+Attr_F_007, outside color: is orange, 外表颜色: 是橙色的
+Attr_F_008, outside color: is red, 外表颜色: 是红色的
+Attr_F_009, outside color: is violet, 外表颜色: 是紫色的
+Attr_F_010, outside color: is green, 外表颜色: 是绿色的
+Attr_F_011, outside color: is yellow, 外表颜色: 是黄色的
+Attr_F_012, outside color: is transparent, 外表颜色: 是透明的
+Attr_F_013, size: is small (compared to apples), 大小: 是小的（比苹果小）
+Attr_F_014, size: is middle (compared to apples), 大小: 是中等的（与苹果近似大小）
+Attr_F_015, size: is big (compared to apples), 大小: 是大的（比苹果大）
+Attr_F_016, shape: is globular, 形状: 是球形的
+Attr_F_017, shape: is ellipsoidal, 形状: 是椭球形的
+Attr_F_018, shape: is cubic, 形状: 是立方体形的
+Attr_F_019, shape: is star-shaped, 形状: 是星形的
+Attr_F_020, shape: is long, 形状: 是长的
+Attr_F_021, taste: tastes sweet, 味道: 味道是甜的
+Attr_F_022, taste: tastes bitter, 味道: 味道是苦的
+Attr_F_023, taste: tastes sour, 味道: 味道是酸的
+Attr_F_024, taste: tastes spicy, 味道: 味道是辣的
+Attr_F_025, taste: tastes puckery, 味道: 味道是涩的
+Attr_F_026, smell: is smelly, 气味: 是气味难闻
+Attr_F_027, smell: is fragrant, 气味: 是有香味的
+Attr_F_028, marking: has patches, 斑纹: 有块状斑纹
+Attr_F_029, marking: has spots, 斑纹: 有点状斑纹
+Attr_F_030, marking: has stripes, 斑纹: 有条状斑纹
+Attr_F_031, epidermis: is hairy, 表皮: 是有毛的
+Attr_F_032, epidermis: is smooth, 表皮: 是光滑的
+Attr_F_033, epidermis: is rough, 表皮: 是粗糙的
+Attr_F_034, epidermis: is angular, 表皮: 是有棱角的
+Attr_F_035, epidermis: is barbed, 表皮: 是有刺的
+Attr_F_036, epidermis: has peel, 表皮: 有皮
+Attr_F_037, epidermis: has crust, 表皮: 有壳
+Attr_F_038, current state: is complete, 当前状态: 是完整的
+Attr_F_039, current state: is shredded, 当前状态: 是被切开的
+Attr_F_040, current state: is peeled, 当前状态: 是被削了皮的
+Attr_F_041, current state: is shelled, 当前状态: 是被剥了壳的
+Attr_F_042, current state: is raw, 当前状态: 是原生的（未被加工过的）
+Attr_F_043, current state: has been processed, 当前状态: 是被加工过的
+Attr_F_044, hardness: is soft, 硬度: 是软的
+Attr_F_045, hardness: is hard, 硬度: 是硬的
+Attr_F_046, edibility: is common, 食用性: 是常见的
+Attr_F_047, edibility: is rare, 食用性: 是罕见的
+Attr_F_048, edibility: can be eaten directly, 食用性: 可直接食用的（不需要加工）
+Attr_F_049, edibility: has a high water content, 食用性: 含水量高
+Attr_F_050, edibility: needs to be skinned, 食用性: 需要剥皮
+Attr_F_051, edibility: has nutlets, 食用性: 有果核
+Attr_F_052, edibility: has seeds, 食用性: 有籽
+Attr_F_053, growth: is tropical, 生长: 产于热带
+Attr_F_054, growth: grows on trees, 生长: 长在树上
+Attr_F_055, growth: grows on the ground, 生长: 长在地上
+Attr_F_056, medicinal property: is cool or cold, 药性: 是寒、凉性水果
+Attr_F_057, medicinal property: is warm or hot, 药性: 是温、热性水果
+Attr_F_058, medicinal property: is mild, 药性: 是平性水果

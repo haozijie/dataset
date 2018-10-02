@@ -1,0 +1,22 @@
+Attr_H_001, color: is black, 颜色: 是黑色的
+Attr_H_002, color: is brown, 颜色: 是棕褐色的
+Attr_H_003, color: is golden, 颜色: 是金黄色的
+Attr_H_004, fitness: fits people with small eyes, 大小: 适合小眼睛的人
+Attr_H_005, fitness: fits people with moustache, 大小: 适合有小胡子的人
+Attr_H_006, fitness: fits people with beard, 大小: 适合有络腮胡子的人
+Attr_H_007, fitness: fits fair-skinned people, 大小: 适合皮肤白皙的人
+Attr_H_008, fitness: fits people with a pointed nose, 大小: 适合尖尖鼻子的人
+Attr_H_009, fitness: fits people with a hat, 大小: 适合戴帽子的人
+Attr_H_010, fitness: fits people with ear rings, 大小: 适合戴耳环的人
+Attr_H_011, fitness: fits people with heavy make-up, 大小: 适合化浓妆的人
+Attr_H_012, feeling: is easy to be messy, 感觉: 容易变乱
+Attr_H_013, feeling: is gorgeous, 感觉: 是华丽的
+Attr_H_014, feeling: is simple, 感觉: 是简约的
+Attr_H_015, feeling: is elegant, 感觉: 是否优雅
+Attr_H_016, feeling: is cute, 感觉: 是否可爱
+Attr_H_017, feeling: is sexy, 感觉: 是否性感
+Attr_H_018, feeling: is mature, 感觉: 是否成熟
+Attr_H_019, feeling: is cool, 感觉: 是否酷炫
+Attr_H_020, feeling: is pure, 感觉: 是否纯净
+Attr_H_021, feeling: is lively, 感觉: 是否活泼
+Attr_H_022, feeling: is naive, 感觉: 是否幼稚

@@ -1,0 +1,81 @@
+Attr_V_001, color: is black, 颜色: 是黑色的
+Attr_V_002, color: is white, 颜色: 是白色的
+Attr_V_003, color: is blue, 颜色: 是蓝色的
+Attr_V_004, color: is cyan, 颜色: 是青色的
+Attr_V_005, color: is brown, 颜色: 是棕色的
+Attr_V_006, color: is gray, 颜色: 是灰色的
+Attr_V_007, color: is orange, 颜色: 是橙色的
+Attr_V_008, color: is red, 颜色: 是红色的
+Attr_V_009, color: is violet, 颜色: 是紫色的
+Attr_V_010, color: is green, 颜色: 是绿色的
+Attr_V_011, color: is yellow, 颜色: 是黄色的
+Attr_V_012, size: is small (compared to cars), 大小: 是小的（比汽车小）
+Attr_V_013, size: is middle (compared to cars), 大小: 是中等的（与汽车近似大小）
+Attr_V_014, size: is big (compared to cars), 大小: 是大的（比汽车大）
+Attr_V_015, weight: weighs tons, 重量: 有数吨重
+Attr_V_016, shape: is globular, 形状: 是球形的
+Attr_V_017, shape: is ellipsoidal, 形状: 是椭球形的
+Attr_V_018, shape: is cubic, 形状: 是立方体形的
+Attr_V_019, shape: is long, 形状: 是长的
+Attr_V_020, speed: moves slowly, 速度: 速度慢
+Attr_V_021, speed: moves fast, 速度: 速度快
+Attr_V_022, parts: has doors, 组成部件: 有门
+Attr_V_023, parts: has seats, 组成部件: 有座位
+Attr_V_024, parts: has windows, 组成部件: 有窗户
+Attr_V_025, parts: has a jet engine, 组成部件: 有喷气发动机
+Attr_V_026, parts: has a engine, 组成部件: 有发动机
+Attr_V_027, parts: has a sail, 组成部件: 有帆
+Attr_V_028, parts: has a mast, 组成部件: 有桅杆
+Attr_V_029, parts: has a horn, 组成部件: 有喇叭
+Attr_V_030, parts: has a steering wheel, 组成部件: 有方向盘
+Attr_V_031, parts: has a track, 组成部件: 有轨道
+Attr_V_032, parts: has a brake, 组成部件: 有刹车
+Attr_V_033, parts: has a number plate, 组成部件: 有牌照
+Attr_V_034, parts: has a sunroof, 组成部件: 有天窗
+Attr_V_035, parts: has a propeller, 组成部件: 有螺旋桨
+Attr_V_036, parts: has weapons, 组成部件: 携带武器
+Attr_V_037, parts: has a cable, 组成部件: 有缆绳
+Attr_V_038, parts: has two wheels, 组成部件: 有两个轮子
+Attr_V_039, parts: has three wheels, 组成部件: 有三个轮子
+Attr_V_040, parts: has four wheels, 组成部件: 有四个轮子
+Attr_V_041, parts: has more than four wheels, 组成部件: 有多于四个轮子
+Attr_V_042, parts: has armors, 组成部件: 有装甲的
+Attr_V_043, parts: has lights, 组成部件: 有照明灯
+Attr_V_044, function: can dive, 功能: 能潜水
+Attr_V_045, function: can fly , 功能: 能以飞
+Attr_V_046, function: can float, 功能: 能漂浮水面
+Attr_V_047, function: can move, 功能: 能以移动
+Attr_V_048, function: can be driven, 功能: 能被驾驶
+Attr_V_049, function: can carry a small number (≤10) of passengers, 功能: 能载少量(≤10)乘客
+Attr_V_050, function: can carry a larger number (＞10)  of passengers, 功能: 能载大量(＞10)乘客
+Attr_V_051, function: can carry a small quantity (≤ 1 ton) of goods, 功能: 能载少量(≤ 1 吨)货物
+Attr_V_052, function: can carry a large quantity (＞ 1 tons) of goods, 功能: 能载大量(＞ 1 吨)货物
+Attr_V_053, aim: is for cleaning, 目的: 可用于清洁
+Attr_V_054, aim: is for engineering, 目的: 可用于工程使用
+Attr_V_055, aim: is for rescue, 目的: 可用于救援
+Attr_V_056, aim: is for civil use, 目的: 可用于民用
+Attr_V_057, aim: is for military, 目的: 可用于军事
+Attr_V_058, aim: is for family, 目的: 可用于家庭使用
+Attr_V_059, aim: is for sports, 目的: 可用于运动
+Attr_V_060, power: consumes electricity, 能源: 消耗电
+Attr_V_061, power: consumes gasoline, 能源: 消耗汽油
+Attr_V_062, power: consumes diesel oil, 能源: 消耗柴油
+Attr_V_063, power: consumes special fuel, 能源: 消耗特殊燃料
+Attr_V_064, power: consumes wind power, 能源: 消耗风能
+Attr_V_065, power: consumes manpower, 能源: 需要人力驱动
+Attr_V_066, usage scenarios: can be used on urban roads, 使用场景: 可在城市道路上使用
+Attr_V_067, usage scenarios: can be used on rural roads, 使用场景: 可在乡村道路上使用
+Attr_V_068, usage scenarios: can be used on the track, 使用场景: 可在跑道或轨道上使用
+Attr_V_069, usage scenarios: can be used in the river, 使用场景: 可在河流中使用
+Attr_V_070, usage scenarios: can be used in the lake, 使用场景: 可在湖泊中使用
+Attr_V_071, usage scenarios: can be used in the sea, 使用场景: 可在海洋中使用
+Attr_V_072, usage scenarios: can be used in the sky, 使用场景: 可在天空中使用
+Attr_V_073, usage scenarios: can be used in the space, 使用场景: 可在太空中使用
+Attr_V_074, safety: is safe, 安全性: 是安全的
+Attr_V_075, safety: is dangerous, 安全性: 是危险的
+Attr_V_076, material: is made of metal, 材质: 是金属造的
+Attr_V_077, material: is made of plastic, 材质: 是塑料造的
+Attr_V_078, material: is made of wood, 材质: 是木材造的
+Attr_V_079, material: is made of cloth, 材质: 是布做的
+Attr_V_080, price: is cheap, 价格: 是便宜的
+Attr_V_081, price: is expensive, 价格: 是贵的

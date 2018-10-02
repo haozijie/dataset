@@ -1,0 +1,123 @@
+Attr_A_001, color: is black, 颜色: 是黑色的
+Attr_A_002, color: is white, 颜色: 是白色的
+Attr_A_003, color: is blue, 颜色: 是蓝色的
+Attr_A_004, color: is cyan, 颜色: 是青色的
+Attr_A_005, color: is brown, 颜色: 是棕色的
+Attr_A_006, color: is gray, 颜色: 是灰色的
+Attr_A_007, color: is orange, 颜色: 是橙色的
+Attr_A_008, color: is red, 颜色: 是红色的
+Attr_A_009, color: is violet, 颜色: 是紫色的
+Attr_A_010, color: is green, 颜色: 是绿色的
+Attr_A_011, color: is yellow, 颜色: 是黄色的
+Attr_A_012, color: is transparent, 颜色: 是透明的
+Attr_A_013, appearance: is furry, 外表: 是毛茸茸的
+Attr_A_014, appearance: is hairless, 外表: 是无毛的
+Attr_A_015, appearance: has soft skin, 外表: 有柔软的皮肤
+Attr_A_016, appearance: has tough skin, 外表: 有坚韧的皮肤
+Attr_A_017, appearance: is acicular, 外表: 外表是针状的
+Attr_A_018, appearance: has feathers, 外表: 有羽毛
+Attr_A_019, appearance: has scales, 外表: 有鳞片
+Attr_A_020, appearance: is smooth, 外表: 是光滑的
+Attr_A_021, appearance: is mucous, 外表: 是粘的（有粘液）
+Attr_A_022, appearance: has shells, 外表: 有壳
+Attr_A_023, appearance: has whiskers, 外表: 有胡须
+Attr_A_024, marking: has patches, 斑纹: 有块状斑纹
+Attr_A_025, marking: has spots, 斑纹: 有点状斑纹
+Attr_A_026, marking: has stripes, 斑纹: 有条状斑纹
+Attr_A_027, size: is small (compared to pigs), 大小: 是小的（比猪小）
+Attr_A_028, size: is middle (compared to pigs), 大小: 是中等的（与猪近似大小）
+Attr_A_029, size: is big (compared to pigs), 大小: 是大的（比猪大）
+Attr_A_030, limb: has short legs, 肢体: 有短的腿
+Attr_A_031, limb: has long legs, 肢体: 有长的腿
+Attr_A_032, limb: is bipedal, 肢体: 是两条腿走路的
+Attr_A_033, limb: has four legs, 肢体: 有四条腿
+Attr_A_034, limb: has two legs, 肢体: 只有两条腿
+Attr_A_035, limb: has two arms, 肢体: 有两个胳膊
+Attr_A_036, limb: has tentacle, 肢体: 有触手
+Attr_A_037, wing: has short wings, 翅膀: 有短的翅膀
+Attr_A_038, wing: has long wings, 翅膀: 有长的翅膀
+Attr_A_039, paws: has paws, 爪子: 有爪子
+Attr_A_040, paws: has pads, 爪子: 有肉垫
+Attr_A_041, paws: has hooves, 爪子: 有蹄子
+Attr_A_042, neck: has a short neck, 脖子: 有长脖子
+Attr_A_043, neck: has a long neck, 脖子: 有短脖子
+Attr_A_044, teeth: has teeth, 牙齿: 有牙齿
+Attr_A_045, teeth: has buck teeth, 牙齿: 有獠牙
+Attr_A_046, teeth: has tusks, 牙齿: 有长牙（象牙）
+Attr_A_047, tail: has a short tail, 尾巴: 有短尾巴
+Attr_A_048, tail: has a long tail, 尾巴: 有长尾巴
+Attr_A_049, tail: has a colorful tail, 尾巴: 有彩色尾巴
+Attr_A_050, horn: has short horns, 角: 有短的角
+Attr_A_051, horn: has long horns, 角: 有长的角
+Attr_A_052, horn: has cuspidal horns, 角: 有尖的角
+Attr_A_053, horn: has curved horns, 角: 有弯曲的角
+Attr_A_054, horn: has only one horn, 角: 只有一个角
+Attr_A_055, beak: has a curved beak, 喙: 有弯曲的喙
+Attr_A_056, beak: has a dagger beak, 喙: 有匕首状的喙
+Attr_A_057, beak: has a hooked beak, 喙: 有勾状的喙
+Attr_A_058, beak: has a needle beak, 喙: 有尖的喙
+Attr_A_059, beak: has a short beak, 喙: 有短的喙
+Attr_A_060, beak: has a long beak, 喙: 有长的喙
+Attr_A_061, smell: is smelly, 气味: 是气味难闻的
+Attr_A_062, other body parts: has a tongue, 其他身体部位: 有舌头
+Attr_A_063, other body parts: has eyes, 其他身体部位: 有眼睛
+Attr_A_064, other body parts: has fins, 其他身体部位: 有鱼鳍
+Attr_A_065, other body parts: has ears, 其他身体部位: 有耳朵
+Attr_A_066, other body parts: has a nose, 其他身体部位: 有鼻子
+Attr_A_067, other body parts: has a shell, 其他身体部位: 有壳
+Attr_A_068, other body parts: has a backbone, 其他身体部位: 有脊椎
+Attr_A_069, behaviour: can swim, 行为: 能游泳
+Attr_A_070, behaviour: can fly, 行为: 能飞行
+Attr_A_071, behaviour: can walk, 行为: 能行走
+Attr_A_072, behaviour: can lay eggs, 行为: 能下蛋
+Attr_A_073, behaviour: can jump, 行为: 能跳跃
+Attr_A_074, behaviour: can climb trees, 行为: 能爬树
+Attr_A_075, behaviour: can fish, 行为: 能捕鱼
+Attr_A_076, diet: eats plants, 饮食: 吃植物
+Attr_A_077, diet: eats insects, 饮食: 吃昆虫
+Attr_A_078, diet: eats fish, 饮食: 吃鱼
+Attr_A_079, diet: eats leaves, 饮食: 吃树叶
+Attr_A_080, diet: eats meat, 饮食: 吃肉
+Attr_A_081, diet: eats seeds, 饮食: 吃种子
+Attr_A_082, diet: eats nectar, 饮食: 吃花蜜
+Attr_A_083, diet: eats plankton, 饮食: 吃浮游生物
+Attr_A_084, habit: moves fast, 习性: 行动快速
+Attr_A_085, habit: moves slow, 习性: 行动缓慢
+Attr_A_086, habit: is strong, 习性: 是强壮的
+Attr_A_087, habit: is weak, 习性: 是弱小的
+Attr_A_088, habit: has muscle, 习性: 有肌肉
+Attr_A_089, habit: is fierce, 习性: 是凶猛的
+Attr_A_090, habit: is friendly, 习性: 是友好的
+Attr_A_091, habit: is timid, 习性: 是胆小的
+Attr_A_092, habit: is smart, 习性: 是聪明的
+Attr_A_093, habit: is active, 习性: 是活跃的
+Attr_A_094, habit: is nocturnal, 习性: 是夜间活动的
+Attr_A_095, habit: can hibernate, 习性: 会冬眠
+Attr_A_096, habit: is the predator, 习性: 是捕食者
+Attr_A_097, habit: is the scavenger, 习性: 是食腐动物
+Attr_A_098, habit: lives in groups, 习性: 是群居动物
+Attr_A_099, habit: lives in solitary, 习性: 是独行动物
+Attr_A_100, habit: lives in nests, 习性: 是巢居动物
+Attr_A_101, habit: is noisy, 习性: 是吵闹的
+Attr_A_102, habit: is quiet, 习性: 是安静的
+Attr_A_103, habit: is warm-blooded, 习性: 是恒温动物
+Attr_A_104, habit: is cold-blooded, 习性: 是冷血动物
+Attr_A_105, habit: is venomous, 习性: 是有毒的
+Attr_A_106, habit: can milk, 习性: 能产奶
+Attr_A_107, habitat: lives in the arctic, 栖息地: 生活在北极
+Attr_A_108, habitat: lives in coastal places, 栖息地: 生活在沿海陆地
+Attr_A_109, habitat: lives in the desert, 栖息地: 生活在沙漠
+Attr_A_110, habitat: lives in the bush, 栖息地: 生活在灌木从中
+Attr_A_111, habitat: lives in the plains, 栖息地: 生活在平原
+Attr_A_112, habitat: lives in the forest, 栖息地: 生活在森林中
+Attr_A_113, habitat: lives in fields, 栖息地: 生活在田野里
+Attr_A_114, habitat: lives in the jungle, 栖息地: 生活在丛林中
+Attr_A_115, habitat: lives in mountains, 栖息地: 生活在山中
+Attr_A_116, habitat: lives in the ocean, 栖息地: 生活在海洋里
+Attr_A_117, habitat: lives on the ground, 栖息地: 生活在地面上
+Attr_A_118, habitat: lives in water, 栖息地: 生活在水里
+Attr_A_119, habitat: lives in trees, 栖息地: 生活在树上
+Attr_A_120, habitat: lives in the cave, 栖息地: 生活在洞穴里
+Attr_A_121, habitat: is domestic, 栖息地: 是家养动物
+Attr_A_122, habitat: is endangered, 栖息地: 是濒临灭绝的动物
+Attr_A_123, habitat: lives in the traveling, 栖息地: 是迁徙动物

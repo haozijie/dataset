@@ -1,0 +1,75 @@
+Attr_E_001, color: is black, 颜色: 是黑色的
+Attr_E_002, color: is white, 颜色: 是白色的
+Attr_E_003, color: is blue, 颜色: 是蓝色的
+Attr_E_004, color: is cyan, 颜色: 是青色的
+Attr_E_005, color: is brown, 颜色: 是棕色的
+Attr_E_006, color: is gray, 颜色: 是灰色的
+Attr_E_007, color: is orange, 颜色: 是橙色的
+Attr_E_008, color: is red, 颜色: 是红色的
+Attr_E_009, color: is violet, 颜色: 是紫色的
+Attr_E_010, color: is green, 颜色: 是绿色的
+Attr_E_011, color: is yellow, 颜色: 是黄色的
+Attr_E_012, size: is small (compared to a mobile phone), 大小: 是小的（比手机小）
+Attr_E_013, size: is middle (compared to a mobile phone), 大小: 是中等的（与手机近似大小）
+Attr_E_014, size: is big (compared to a mobile phone), 大小: 是大的（比手机大）
+Attr_E_015, weight: weighs kilograms, 重量: 有数千克重
+Attr_E_016, shape: is cubic, 形状: 是立方体形的
+Attr_E_017, shape: is cylindrical, 形状: 是圆柱形的
+Attr_E_018, shape: is schistose, 形状: 是片状的
+Attr_E_019, shape: is flat, 形状: 是扁平的
+Attr_E_020, parts: has a small screen (≤10 inches), 组成部件: 有较小屏幕（≤10吋）
+Attr_E_021, parts: has a large screen (＞10 inches), 组成部件: 有较大屏幕（＞10吋）
+Attr_E_022, parts: has an audio, 组成部件: 有发声装置
+Attr_E_023, parts: has a wrist band, 组成部件: 有腕带
+Attr_E_024, parts: has a motor, 组成部件: 有电机
+Attr_E_025, parts: has a fan, 组成部件: 有风扇
+Attr_E_026, parts: has only one usb interface, 组成部件: 只有一个USB接口
+Attr_E_027, parts: has many usb interfaces, 组成部件: 有很多（＞1）USB接口
+Attr_E_028, parts: has only one network interface, 组成部件: 只有一个网线接口
+Attr_E_029, parts: has many network interfaces, 组成部件: 有很多（＞1）网线接口
+Attr_E_030, parts: has a battery, 组成部件: 有电池
+Attr_E_031, parts: has a camera, 组成部件: 有摄像头（或相机）
+Attr_E_032, parts: has keys, 组成部件: 有按键
+Attr_E_033, parts: has a headphone jack, 组成部件: 有耳机插口
+Attr_E_034, parts: has volume control buttons, 组成部件: 有音量调节键
+Attr_E_035, parts: has an antenna, 组成部件: 有外置天线
+Attr_E_036, parts: has a plug, 组成部件: 有（电源）插头
+Attr_E_037, parts: has a touch pad, 组成部件: 有触控板
+Attr_E_038, parts: has indicator lights, 组成部件: 有指示灯
+Attr_E_039, function: can give out lights, 功能: 能发光
+Attr_E_040, function: can give out sound, 功能: 能发声
+Attr_E_041, function: can refrigerate, 功能: 能制冷
+Attr_E_042, function: can heat, 功能: 能制热
+Attr_E_043, function: can transmit signal, 功能: 能发射信号
+Attr_E_044, function: can communicate in a short distance, 功能: 能近距离内通讯
+Attr_E_045, function: can communicate in a long distance, 功能: 能远距离内通讯
+Attr_E_046, function: can photograph, 功能: 能拍照或摄像的
+Attr_E_047, function: can play music, 功能: 能播放音乐
+Attr_E_048, function: can play videos, 功能: 能播放视频
+Attr_E_049, function: can storage data, 功能: 能存储数据
+Attr_E_050, function: can be located, 功能: 能被定位
+Attr_E_051, function: can show characters, 功能: 能显示文字
+Attr_E_052, aim: is for entertainment, 目的: 可用于娱乐
+Attr_E_053, aim: is for business, 目的: 可用于商业
+Attr_E_054, aim: is for communication, 目的: 可用于通讯
+Attr_E_055, aim: is for family, 目的: 可用于家庭使用
+Attr_E_056, aim: is for office use, 目的: 可用于办公
+Attr_E_057, aim: is for display, 目的: 可用于展示
+Attr_E_058, aim: is for safety, 目的: 可用于安防
+Attr_E_059, aim: is for cleaning, 目的: 可用于清洁
+Attr_E_060, aim: is for personal, 目的: 可用于个人使用
+Attr_E_061, safety: is safe, 安全性: 是安全的
+Attr_E_062, safety: is dangerous, 安全性: 是危险的
+Attr_E_063, material: is made of metal, 材质: 是金属造的
+Attr_E_064, material: is made of plastic, 材质: 是塑料造的
+Attr_E_065, material: is made of glass, 材质: 是玻璃造的
+Attr_E_066, existence: is rare, 存在: 是罕见的
+Attr_E_067, existence: is common, 存在: 是常见的
+Attr_E_068, existence: is movable, 存在: 是可被随时移动的
+Attr_E_069, existence: is fixed, 存在: 是固定安装的
+Attr_E_070, sound: is noisy, 声音: 会发出噪声
+Attr_E_071, sound: is quiet, 声音: 是安静的
+Attr_E_072, usage mode: is handheld, 使用方式: 是可以手持的
+Attr_E_073, usage mode: is head-mounted, 使用方式: 是可以头戴的
+Attr_E_074, power: is a high-power (>100 w) device , 功率: 是大功率设备
+Attr_E_075, power: is a low-power (≤100 w) device, 功率: 是小功率设备
